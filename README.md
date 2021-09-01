@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Digital Design and Verification challanges
 - 📫 How to reach me: Yakirperets@gmail.com
 
-I possess knowledge at Verilog, SystemVerilog,Specman, VHDL, C, CPP, Python and Arduino.
+I possess knowledge at Verilog, SystemVerilog,Specman, VHDL, C, CPP, Matlab and Python
